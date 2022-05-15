@@ -1,0 +1,14 @@
+ja:
+  activerecord:
+    attributes:
+      board:
+        name: 名前
+        title: タイトル
+        body: 本文
+  views:
+    pagination:
+      first: "最 初"
+      last: "最 後"
+      previous: "←"
+      next: "→"
+      truncate: "..."
